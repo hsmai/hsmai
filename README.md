@@ -1,4 +1,4 @@
-## Sang Min Han | 한상민
+## SangMin Han | 한상민
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hsm_inn/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sangminhan0810@gmail.com)<br><br>
