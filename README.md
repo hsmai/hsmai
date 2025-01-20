@@ -19,6 +19,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=hsmai&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="hsmai" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hsmai&theme=material-palenight&hide_border=false" alt="hsmai" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsmai&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="hsmai" /></p>
+
 
 
