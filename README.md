@@ -4,9 +4,9 @@
 
 ## About Me
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>[instagram]
-
-[instagram]: https://instagram.com/hsm_inn
+<a href="https://instagram.com/hsm_inn" target="_blank">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+</a>
 
 ## Tools
 
