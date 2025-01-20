@@ -4,8 +4,9 @@
 
 ## About Me
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hsm_inn/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:artcodehsm@gmail.com)
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+
+[instagram]: https://instagram.com/hsm_inn
 
 ## Tools
 
