@@ -4,8 +4,8 @@
 
 ## About Me
 
-<a href="https://instagram.com/hsm_inn" target="_blank">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> </a>
+<a href="https://instagram.com/hsm_inn" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> <a/>
+          
 
 ## Tools
 
