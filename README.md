@@ -3,11 +3,30 @@
 :8ball: Studying AI Engineering
 
 ## 👋 About Me
+Hi, I'm Sangmin Han, an AI Developer.
+
+My main interests are Large Language Models, Computer Vision, and Embodied AI. I enjoy building AI technologies that improve everyday life by turning theory into practical systems that solve real-world problems. To strengthen this ability, I actively participate in competitions and projects where I apply what I learn to realistic challenges.
+
+One of my key achievements is winning the Grand Prize (Minister of Science and ICT Award) at the 2025 SW-Centric University Digital Competition. Through this experience, I successfully introduced an LLM-based approach to a real-world problem and achieved outstanding results.
+
+Feel free to reach out if you have any questions!
+
+
 
 
 ## 📫 Contact
 
-<a href="https://instagram.com/htkdals" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+<p>
+  <a href="https://instagram.com/htkdals" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram"/>
+  </a>
+  <a href="mailto:artcodehsm@gmail.com" target="_blank">
+    <img width="45" height="60" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail"/>
+  </a>
+  
+</p>
+
+
           
 
 ## 🎓 Education
@@ -49,7 +68,8 @@
 
 ## Technology Stack
 
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> <a/> 
+</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+ <a/> 
           
           
           
