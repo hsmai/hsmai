@@ -7,7 +7,7 @@ Hi, I'm Sangmin Han, an AI Developer.
 
 My main interests are Large Language Models, Computer Vision, and Embodied AI. I enjoy building AI technologies that improve everyday life by turning theory into practical systems that solve real-world problems. To strengthen this ability, I actively participate in competitions and projects where I apply what I learn to realistic challenges.
 
-One of my key achievements is winning the Grand Prize (Minister of Science and ICT Award) at the 2025 SW-Centric University Digital Competition. Through this experience, I successfully introduced an LLM-based approach to a real-world problem and achieved outstanding results.
+One of my key achievements is winning the Grand Prize (Minister of Science and ICT Award) at the 2025 SW-Centric University Digital Competition. Through this experience, I successfully introduced an LLM based approach to a real-world problem and achieved outstanding results.
 
 Feel free to reach out if you have any questions!
 
