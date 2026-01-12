@@ -28,7 +28,7 @@ Feel free to reach out if you have any questions!
   
 </p>
 
-          
+<br>
 
 ## 🎓 Education
 
