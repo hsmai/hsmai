@@ -51,7 +51,7 @@ Feel free to reach out if you have any questions!
 
 | Date | Project | Topic | Competition | Link |
 | --- | --- | --- | --- |--- |
-| 2024.09 ~ 2025.12 | BCI Framework | LLM에 BCI 데이터를 활용할 수 있는 프레임워크 | 인하대학교 탄소중립 아카데미 3기 | - |
+| 2024.09 ~ 2025.12 | LLM Framework with BCI | LLM에 BCI 데이터를 활용할 수 있는 프레임워크 | 인하대학교 탄소중립 아카데미 3기 | - |
 | 2024.03 ~ 2024.06 | InhaUS | 부동산공포탐욕지수 기반 부동산 관련 종합 정보 제공 사이트 | 24-1 파이썬기반응용프로그래밍 팀프로젝트 | [GITHUB](https://github.com/hsmai/real-estate-index-web) |
 
 <br>
