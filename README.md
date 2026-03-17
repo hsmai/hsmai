@@ -52,6 +52,7 @@ Feel free to reach out if you have any questions!
 | Date | Project | Topic | Competition | Link |
 | --- | --- | --- | --- |--- |
 | 2024.03 ~ 2024.06 | InhaUs | 부동산공포탐욕지수 기반 부동산 정보제공 사이트 | 파이썬기반응용프로그래밍 프로젝트 | [GITHUB](https://github.com/hsmai/real-estate-index-web) |
+| 2026.03 ~ 2026.06 | 모아봄 | 유튜브 테크 리뷰 종합 분석 에이전트 | 인공지능종합설계 프로젝트 | On-going |
 
 <br>
 
