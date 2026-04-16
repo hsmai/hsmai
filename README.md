@@ -21,10 +21,7 @@ Feel free to reach out if you have any questions!
 <p>
   <a href="https://instagram.com/htkdals" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram"/>
-  </a>
-  <a href="mailto:artcodehsm@gmail.com" target="_blank">
-    <img width="45" height="60" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail"/>
-  </a>
+  
   
 </p>
 
