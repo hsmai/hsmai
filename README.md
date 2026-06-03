@@ -58,7 +58,8 @@ Feel free to reach out if you have any questions!
 - 2021.12 ~ 2022.02 인하대학교 감성 인공지능 연구실(Affective Lab, 김병형 교수님) 학부연구생
 - 2024.09 ~ 2024.12 인하대학교 탄소중립 INNOVATION ACADEMY 3기 수료
 - 2024.12 ~ 2025.05 인하대학교 감성 인공지능 연구실(Affective Lab, 김병형 교수님) 학부연구생
-- 2025.06 ~ , 인하대학교 로봇 지능 학습 및 시스템 연구실(RILS Lab, 안우진 교수님) 학부연구생
+- 2025.06 ~ 2026.06 인하대학교 로봇 지능 학습 및 시스템 연구실(RILS Lab, 안우진 교수님) 학부연구생
+- 2026.07 ~ Present UNIST 인터랙티브 멀티모달 머신러닝 연구실(IMML Lab, 김태환 교수님) 인턴
 
 <br>         
 
