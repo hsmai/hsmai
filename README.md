@@ -37,7 +37,7 @@ Feel free to reach out if you have any questions!
 
 | Date | Competition | Topic | Host | Rank | Award | Link |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | 유튜브 테크 리뷰 종합 분석 에이전트 | 인하대학교 | 3 | 🥈 우수상<br>(소프트웨어융합대학장상) |  [GITHUB](https://github.com/moabom-official) |
+| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | 유튜브 테크 리뷰 종합 분석 에이전트 | 인하대학교 | 3 | 🥈 우수상<br>(소프트웨어융합대학장상) |  - |
 | 2025.09 | 2025 동원 X 카이스트 AI Competition | 소비자 페르소나 기반 동원 신제품 월별 수요 예측 | 동원그룹 · KAIST | 5 | 🥉 우수상<br>(동원그룹 회장상) |  [DACON](https://dacon.io/competitions/official/236546/overview/description) |
 | 2025.09 | 2025 금융 AI Challenge | 금융보안 특화 AI 모델 | 금융보안원 | 91 | - |  [DACON](https://dacon.io/competitions/official/236527/overview/description) |
 | 2025.08 | 2025 인하 인공지능 Challenge | 언어정보 기반 이미지 채색 | 인하대학교 | 16 | - |  [DACON](https://dacon.io/competitions/official/236499/overview/description) |
