@@ -49,8 +49,10 @@ Feel free to reach out if you have any questions!
 
 | Date | Project | Topic | Competition | Link |
 | --- | --- | --- | --- |--- |
-| 2024.03 ~ 2024.06 | InhaUs | 부동산공포탐욕지수 기반 부동산 정보제공 사이트 | 파이썬기반응용프로그래밍 프로젝트 | [GITHUB](https://github.com/hsmai/real-estate-index-web) |
+| 2026.07 ~ Ongoing | StarFellowship | 산업 도메인 특화 멀티모달 초거대  파운데이션 모델 개발 | 정보통신기획평가원/LG AI Research | - |
 | 2026.03 ~ 2026.06 | MOABOM | 유튜브 테크 리뷰 종합 분석 에이전트 | 인공지능종합설계 프로젝트 | - |
+| 2024.03 ~ 2024.06 | InhaUs | 부동산공포탐욕지수 기반 부동산 정보제공 사이트 | 파이썬기반응용프로그래밍 프로젝트 | [GITHUB](https://github.com/hsmai/real-estate-index-web) |
+
 
 <br>
 
