@@ -17,7 +17,7 @@
 
 <br>
 
-Portfolio: [노션 포트폴리오](https://app.notion.com/p/Software-Engineer-40e6ea57010d81d598b2f896f00fa4a3)
+Portfolio: [노션 포트폴리오](https://orange-geese-25a.notion.site/Software-Engineer-40e6ea57010d81d598b2f896f00fa4a3)
 
 <br>
 
