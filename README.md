@@ -17,11 +17,12 @@
 
 <br>
 
+Portfolio: [노션 포트폴리오](https://app.notion.com/p/Software-Engineer-40e6ea57010d81d598b2f896f00fa4a3)
+
+<br>
+
 
 ## 📫 연락처
-
-- Email: artcodehsm@gmail.com
-- Portfolio: [노션 포트폴리오](https://app.notion.com/p/Software-Engineer-40e6ea57010d81d598b2f896f00fa4a3)
 
 <p>
   <a href="https://instagram.com/htkdals" target="_blank">
