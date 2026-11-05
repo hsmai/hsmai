@@ -1,6 +1,6 @@
 # SangMin Han | 한상민
 
-:8ball: AI Engineer · 인하대학교 인공지능공학과 (2027.02 졸업 예정)
+:8ball: AI Engineer
 
 <br>
 
